@@ -1,0 +1,47 @@
+body{
+    font-family: 'Anton', sans-serif;
+    
+}
+
+header{
+    background-color: #00171f;
+    text-align: left;
+    color: white;
+    padding: 40px;
+}
+
+nav{
+    padding: 1%;
+    text-align: center;
+    background-color:#003459 ; 
+}
+article{
+    float: right;
+    width: 40%;
+    background-color: #f5f3f4;
+    height: 451px;
+   
+}
+
+#fotoCoche{
+    float: right;
+    background-color: #00a8e8;
+    width: 60%;
+    height: 451px;
+}
+
+footer{
+    clear: both;
+    background-color: #007ea7;
+    padding: 30px;
+    text-align: left;
+    color: white;
+}
+
+h2, p{
+    padding:10px;
+}
+a{
+   margin-right: 70px;
+   color: white;
+}

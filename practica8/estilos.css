@@ -1,0 +1,54 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Oswald', sans-serif;
+}
+
+
+nav{
+    float: left;
+    width: 20%;
+    background-color: #e0e1dd;
+    height: 727px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+article{
+    float: left;
+    width:80%;
+    background-color: #f5f3f4;
+    height:  727px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+}
+
+h1, h3, p{
+    margin-left: 10px;
+}
+
+.inicio{
+    background-color: blue;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+   color: black;
+   margin-right: 100px;
+}
+
+.contactos{
+    background-color: #696969;
+    color: white;
+}
+h1 {
+    font-size: 30px;
+  }
+  div{
+    margin-top: -17px;
+    font-size: 18px;
+  }
+
+
+
+
