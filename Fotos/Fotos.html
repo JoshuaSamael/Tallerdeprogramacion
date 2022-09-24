@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fotos</title>
+    <style>
+        * {
+          box-sizing: border-box;
+        }
+        
+        body {
+          
+          font-family: Georgia, 'Times New Roman', Times, serif;
+        }
+        
+        .header {
+          text-align: left;
+          padding: 32px;
+        }
+        
+        .row {
+          display: flex;
+          flex-wrap: wrap;
+          padding:  4px;
+        }
+        
+        .fila {
+          flex: 25%;
+          max-width: 25%;
+          padding: 4px;
+        }
+        
+        .fila img {
+          margin-top: 8px;
+          vertical-align: middle;
+        }
+        
+        @media (max-width: 800px) {
+          .fila {
+            flex: 33%;
+            max-width: 33%;
+          }
+        }
+
+        @media (max-width: 700px) {
+          .fila {
+            flex: 50%;
+            max-width: 50%;
+          }
+        }
+        
+        @media (max-width: 600px) {
+          .fila {
+            flex: 100%;
+            max-width: 100%;
+          }
+        }
+        </style>
+</head>
+<body>
+  <div class="header">
+    <h1>Hasbulla imágenes</h1>
+  </div>
+  
+  <div class="row"> 
+    <div class="fila">
+      <img src="Imagenes/hasbulla-magomedov.jpg" style="width:100%">
+      <img src="Imagenes/Hasbulla.jpg" style="width:100%">
+      <img src="Imagenes/hasbullacampeon.jpg" style="width:100%">
+      <img src="Imagenes/hasbullaelegante.jpg" style="width:100%">
+    </div>
+    
+    <div class="fila">
+      <img src="Imagenes/hasbullamoto.jpg" style="width:100%">
+      <img src="Imagenes/hasbullaphone.jpg" style="width:100%">
+      <img src="Imagenes/hasbullapiloto.jpg" style="width:100%">
+      <img src="Imagenes/hasbullaabrigado.jpg" style="width:100%">
+    </div> 
+     
+    <div class="fila">
+      <img src="Imagenes/hasbullapool.jpg" style="width:100%">
+      <img src="Imagenes/hasbullasaludando.jpg" style="width:100%">
+      <img src="Imagenes/hasbullavaloz.jpg" style="width:100%">
+      <img src="Imagenes/hasbullaleon.jpeg" style="width:100%">
+    </div>
+    
+    <div class="fila">
+      <img src="Imagenes/hasbullaacostado.jpg" style="width:100%">
+      <img src="Imagenes/hasbullaflow.jpg" style="width:100%">
+      <img src="Imagenes/hasbullagatos.jpg" style="width:100%">
+      <img src="Imagenes/hasbullaselfie.jpg" style="width:100%">
+    </div>
+  </div>
+</body>
+</html>
