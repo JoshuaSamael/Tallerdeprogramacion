@@ -234,11 +234,16 @@
             nombreCompleto : function(){
                 return this.nombre + " " + this.apellido;
             }
-        }
+        }//Esto no es un JSON
 
         console.log(persona.nombreCompleto());
 
+        console.log(persona["apellido"]);
 
+        var personax = '{"nombre":"Juan", "edad":31, "ciudad":"León"}';
+        console.log(personax);
+        var objetoPersona = JSON.parse(personax);
+        console.log(objetoPersona.nombre);
 
 
 
