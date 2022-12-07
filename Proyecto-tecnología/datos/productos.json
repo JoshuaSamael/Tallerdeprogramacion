@@ -1,0 +1,49 @@
+[{
+    "nombre": "Desarrollo de aplicaciones web",
+    "caracteristicas": "Nuestras aplicaciones basadas en la web incluyen interfaces de usuario móviles que se mantienen consistentes entre diferentes navegadores y dispositivos.", 
+    "imagen":"imagen.webp"
+}, {
+    "nombre": "Desarrollo de aplicaciones móviles",
+    "caracteristicas": "Creamos aplicaciones móviles nativas y multiplataforma para iOS y Android que mantengan todas las características potenciales del dispositivo y del sistema operativo.",
+    "imagen":"image.webp"
+}, {
+    "nombre": "Documentación de procesos ",
+    "caracteristicas": "Hacemos la descripción detallada en la cual se describen los pasos exactos que se necesitan para realizar una tarea de inicio a fin.",
+    "imagen":"imagen2.webp"
+}, {
+    "nombre": "Inspecciones",
+    "caracteristicas": "En conjunto con el equipo de sistemas se realizan revisiones para detectar defectos en cualquier producto de software.",
+    "imagen":"imagen3.webp"
+}, {
+    "nombre": "Pruebas funcionales ",
+    "caracteristicas": "Validamos principalmente toda la aplicación con respecto a las especificaciones mencionadas en la documentación de requerimientos de software.",
+    "imagen":"si.webp"
+}, {
+    "nombre": "Pruebas de seguridad",
+    "caracteristicas": "Se lleva a cabo unas actividades para encontrar fallas o vulnerabilidades en aplicaciones web.",
+    "imagen":"imagen4.webp"
+}, {
+    "nombre": "Pruebas de carga ",
+    "caracteristicas": "Simulamos el uso del mundo real, o cargar en cualquier software e identificamos factores como la capacidad de respuesta, degradación y escalabilidad.",
+    "imagen":"imagen5.webp"
+}, {
+    "nombre": "Pruebas de performance",
+    "caracteristicas": "Probamos como se comporta un sistema en términos de capacidad de respuesta y estabilidad bajo una carga de trabajo particular.",
+    "imagen":"imagen6.webp"
+}, {
+    "nombre": "Diseño de proceso de pruebas ",
+    "caracteristicas": "Con base al entorno de desarrollo de software se especifican las actividades, fases y formatos utilizados para pruebas de software.",
+    "imagen":"imagen7.webp"
+}, {
+    "nombre": "Diseño de páginas web",
+    "caracteristicas": "Diseños modernos y limpios, tiendas virtuales, tiendas en línea.",
+    "imagen":"imagen8.webp"
+}, {
+    "nombre": "Capacitación de pruebas",
+    "caracteristicas": "Te ayudamos a especializar a tu equipo de trabajo en el proceso de pruebas de software más adecuado al entorno de desarrollo de tu empresa.",
+    "imagen":"imagen9.webp"
+}, {
+    "nombre": "Migraciones de base de datos",
+    "caracteristicas": "Movemos tus datos de una ubicación a otra, de un formato a otro.",
+    "imagen":"imagen0.webp"
+}]

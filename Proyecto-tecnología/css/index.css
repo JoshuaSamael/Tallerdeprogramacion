@@ -3,6 +3,7 @@ h1{
 }
 h3{
     color: black;
+    
 }
 i{
     color: black;
@@ -11,4 +12,7 @@ i{
 a{
     color: black;
 }
-
+.iconosredes {
+    font-size: 2em;
+    padding-right: 0.5em;
+}
